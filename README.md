@@ -11,5 +11,3 @@
 <a href="https://github.com/MisterEvans78/demo-git-cours/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MisterEvans78/demo-git-cours" />
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
